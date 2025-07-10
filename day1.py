@@ -1,11 +1,4 @@
 
-# ✅ 5. Menu-Driven Calculator
-# Scenario: Display a menu with options (add, subtract, multiply, divide, exit). Keep taking input and performing operations until the user chooses exit.
-# 1. Add
-# 2. Subtract
-# 3. Multiply
-# 4. Divide
-# 5. Exit
 
 n1 = int(input("Enter the number1: "))
 n2 = int(input("Enter the number2: "))
